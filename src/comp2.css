@@ -1,0 +1,25 @@
+.comp2{
+    width: 615.98px;
+    height: 250.5px;
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.comp2 button{
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    padding: 10px;
+    border: 1px solid black;
+    width: 180px;
+    margin-top: 20px;
+}
+.comp2 h1{
+    font-size: 45px;
+}
+.comp2 p{
+    font-size: 18px;
+    margin-top: -5px;
+}
